@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+### One Man Studio (not officially) founded since 17.09.2022
 ### Featured project: FZ:R
 
 <!--
